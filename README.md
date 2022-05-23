@@ -2,6 +2,10 @@
 
 Author: Jorge Rodriguez Ramos
 
+## ETL plugin for micromanager
+
+https://cismm.web.unc.edu/software/
+
 ## pycro-manager
 
 https://github.com/micro-manager/pycro-manager
