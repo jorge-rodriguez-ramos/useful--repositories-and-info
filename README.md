@@ -1,6 +1,12 @@
-# useful--repositories
+# useful repositories and information
 
 Author: Jorge Rodriguez Ramos
+
+## jupyther-lab from Ubuntu
+Migrating to Mozilla. Mozilla not compatible with Jupyter. I installed gname-www-browser instead. It provides a separated environment to run the notebooks.
+Usefull info here:
+https://stackoverflow.com/questions/35229604/how-to-change-the-default-browser-used-by-the-ipython-jupyter-notebook-in-linux
+
 
 ## ETL plugin for micromanager
 
