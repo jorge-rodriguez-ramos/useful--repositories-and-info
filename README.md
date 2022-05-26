@@ -2,6 +2,9 @@
 
 Author: Jorge Rodriguez Ramos
 
+## copy onedrive info to local disk
+rclone copy onedrive: ~/Documents/backup--onedrive --progress
+
 ## debuger in jupyter lab
 pip install xeus-python
 
