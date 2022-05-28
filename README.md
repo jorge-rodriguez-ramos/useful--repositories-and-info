@@ -2,6 +2,10 @@
 
 Author: Jorge Rodriguez Ramos
 
+## python virtual environments
+
+https://towardsdatascience.com/virtual-environments-104c62d48c54?gi=7d772fa5f946
+
 ## copy onedrive info to local disk
 rclone copy onedrive: ~/Documents/backup--onedrive --progress
 
