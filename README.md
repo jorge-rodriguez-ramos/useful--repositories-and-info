@@ -2,6 +2,10 @@
 
 Author: Jorge Rodriguez Ramos
 
+## install qt to develop GUIs
+
+https://www.qt.io/download-qt-installer
+
 ## python virtual environments
 
 ### python
